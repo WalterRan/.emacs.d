@@ -51,7 +51,7 @@
          ("C-c v ." . ivy-switch-view)
 
          :map counsel-mode-map
-         ([remap swiper] . counsel-grep-or-swiper)
+         ;; ([remap swiper] . counsel-grep-or-swiper)
          ([remap swiper-backward] . counsel-grep-or-swiper-backward)
          ([remap dired] . counsel-dired)
          ([remap set-variable] . counsel-set-variable)
