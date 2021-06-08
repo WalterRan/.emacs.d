@@ -135,7 +135,8 @@
     (warm    . doom-solarized-light)
     (cold    . doom-palenight)
     (day     . doom-tomorrow-day)
-    (night   . doom-tomorrow-night))
+    (night   . doom-tomorrow-night)
+    (leuven  . leuven))
   "List of themes mapped to internal themes."
   :group 'centaur
   :type '(alist :key-type (symbol :tag "Theme")
