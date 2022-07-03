@@ -124,7 +124,7 @@
                     centaur-package-archives-alist)))
 
 (defcustom centaur-theme-alist
-  '((default . doom-one)
+  '((default . wheatgrass)
     (pro     . doom-monokai-pro)
     (dark    . doom-dark+)
     (light   . doom-one-light)
