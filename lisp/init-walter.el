@@ -32,3 +32,5 @@
 (provide 'init-walter)
 
 (set-clipboard-coding-system 'euc-cn)
+(blink-cursor-mode 0)
+(load-theme 'leuven t)
